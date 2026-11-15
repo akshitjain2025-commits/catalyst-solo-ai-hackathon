@@ -1,0 +1,1 @@
+# catalyst-solo-ai-hackathon
